@@ -26,4 +26,4 @@ github_username:  mattroid
 
 # Build settings
 markdown: kramdown
-theme: Gaya
+theme: technomad-jekyll_theme
