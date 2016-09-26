@@ -16,9 +16,7 @@
 title: Willamette Innovations
 email: matto@teamwic.com
 description: > # this means to ignore newlines until "baseurl:"
-  Hi,
-  I'm Matthew O'Connor. I own Willamette Innovations and we are in the business
-  of generating new ways to use web based technologies for businesses.
+   10 Years of building industry leading software. We're 100% Pacific Northwest. Software experts passionate about our programming. From cell phones to servers, we are your projects technical delivery team.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://mattroid.github.io" # the base hostname & protocol for your site
 twitter_username: mattroid
@@ -26,4 +24,4 @@ github_username:  mattroid
 
 # Build settings
 markdown: kramdown
-theme: technomad-jekyll_theme
+theme: minima
